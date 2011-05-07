@@ -831,6 +831,13 @@ include "%L"
 # As for the emoji... We can't possibly get all of them, even just all of the
 # cool/useful ones.  Maybe we can pick and choose some high-fliers.
 
+<Multi_key> <colon> <D> :       "😃"  1F603  # SMILING FACE WITH OPEN MOUTH
+<Multi_key> <B> <parenright> :  "😎"  1F60E  # SMILING FACE WITH SUNGLASSES
+<Multi_key> <braceleft> <colon> <parentright> "😈" 1F608	# SMILING FACE WITH HORNS
+# <Multi_Key> <colon> | :         "😐"  1F610  # NEUTRAL FACE
+
+
+
 <Multi_key> <ampersand> <d> <e> <g> <r> <e> <e> 		: "͏°"	U00B0	# DEGREE SIGN
 <Multi_key> <ampersand> <d> <e> <g> <C> 		: "℃"   U2103 	# DEGREE CELSIUS
 <Multi_key> <ampersand> <d> <e> <g> <c> 		: "℃"   U2103 	# DEGREE CELSIUS
